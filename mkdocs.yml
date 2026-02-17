@@ -1,0 +1,6 @@
+site_name: Reddit MCP Server
+docs_dir: docs
+nav:
+  - Overview: index.md
+  - Changelog: CHANGELOG.md
+  - Roadmap: ROADMAP.md
